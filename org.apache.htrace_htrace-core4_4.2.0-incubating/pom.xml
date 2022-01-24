@@ -35,6 +35,20 @@ language governing permissions and limitations under the License. -->
         <maven.deploy.plugin.version>2.8.2</maven.deploy.plugin.version>
     </properties>
 
+    <scm>
+        <url>https://github.com/hazelcast/thirdparty-security-fixes</url>
+        <connection>scm:git:git@github.com/hazelcast/thirdparty-security-fixes.git</connection>
+        <developerConnection>scm:git:git@github.com/hazelcast/thirdparty-security-fixes.git</developerConnection>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <build>
         <plugins>
             <plugin>
