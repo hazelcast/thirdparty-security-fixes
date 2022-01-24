@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/org.apache.htrace_htrace-core4_4.2.0-incubating/"
+    schedule:
+      interval: "weekly"
