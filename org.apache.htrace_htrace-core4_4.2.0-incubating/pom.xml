@@ -32,7 +32,7 @@ language governing permissions and limitations under the License. -->
         <maven.javadoc.plugin.version>3.3.1</maven.javadoc.plugin.version>
         <maven.gpg.plugin.version>3.0.1</maven.gpg.plugin.version>
         <maven.compiler.plugin.version>3.9.0</maven.compiler.plugin.version>
-        <maven.deploy.plugin.version>2.8.2</maven.deploy.plugin.version>
+        <maven.deploy.plugin.version>3.1.0</maven.deploy.plugin.version>
         <maven.shade.plugin.version>3.2.4</maven.shade.plugin.version>
     </properties>
 
