@@ -4,3 +4,9 @@ updates:
     directory: "/org.apache.htrace_htrace-core4_4.2.0-incubating/"
     schedule:
       interval: "weekly"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "thursday"
+      time: "02:00"
